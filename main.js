@@ -52,8 +52,6 @@ document.getElementById("myCanvas").style.borderColor="red";
 }
 }
 	
-	
-	 else{
 		if(keyPressed == '38')
 		{
 			up();
@@ -74,7 +72,7 @@ document.getElementById("myCanvas").style.borderColor="red";
 			right();
 			console.log("right");
 		}
-	}
+	
 	
 	function up()
 	{
